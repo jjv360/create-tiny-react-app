@@ -11,6 +11,7 @@
     ],
     "author": "jjv360",
     "license": "ISC",
+    "repository": "github:jjv360/create-tiny-react-app",
     "dependencies": {
         "chalk": "^5.0.1",
         "copy-template-dir": "^1.4.0",
