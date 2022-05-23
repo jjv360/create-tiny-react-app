@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Create a small React app template.",
     "main": "start.js",
+    "bin": "start.js",
     "type": "module",
     "keywords": [
         "react",
