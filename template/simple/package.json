@@ -1,0 +1,8 @@
+{
+    "name": "{{PKG_NAME}}",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "parcel build src/index.html --public-url ./",
+        "start": "parcel serve src/index.html"
+    }
+}
